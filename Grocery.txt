@@ -3,3 +3,6 @@ bread
 milk
 candy
 kinder joy
+chocolates 
+ghee
+sweets
